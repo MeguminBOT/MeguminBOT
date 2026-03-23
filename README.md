@@ -35,6 +35,7 @@ Mostly been using it for website front-end or to summarize functionality.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 **Secondary**
 
@@ -59,6 +60,11 @@ Also one of the few tools that actually can extract Adobes Spritemap format.
 [![Website](https://img.shields.io/badge/Website-textureatlastoolbox.com-2ea44f?style=flat-square&logo=googlechrome&logoColor=white)](https://textureatlastoolbox.com/index.html)
 [![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/MeguminBOT/TextureAtlas-Toolbox)
 [![Stars](https://img.shields.io/github/stars/MeguminBOT/TextureAtlas-Toolbox?style=flat-square&color=yellow)](https://github.com/MeguminBOT/TextureAtlas-Toolbox/stargazers)
+
+[![Downloads](https://img.shields.io/github/downloads/MeguminBOT/TextureAtlas-Toolbox/total?style=flat-square&color=blue)](https://github.com/MeguminBOT/TextureAtlas-Toolbox/releases)
+[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/textureatlas-to-gif-and-frames?style=flat-square&color=blue&label=SourceForge%20Downloads)](https://sourceforge.net/projects/textureatlas-to-gif-and-frames/)
+![GB](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.gamebanana.com%2FCore%2FItem%2FData%3Fitemtype%3DTool%26itemid%3D16621%26fields%3Ddownloads%26return_keys%3Dtrue&query=%24.downloads&label=Downloads&color=blue&style=flat&logo=gamebanana&logoColor=white)
+[![itch.io](https://img.shields.io/badge/itch.io-Mirror-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://autisticlulu.itch.io/textureatlas-toolbox)
 
 </div>
 
