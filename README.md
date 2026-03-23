@@ -61,10 +61,9 @@ Also one of the few tools that actually can extract Adobes Spritemap format.
 [![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/MeguminBOT/TextureAtlas-Toolbox)
 [![Stars](https://img.shields.io/github/stars/MeguminBOT/TextureAtlas-Toolbox?style=flat-square&color=yellow)](https://github.com/MeguminBOT/TextureAtlas-Toolbox/stargazers)
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/MeguminBOT/TextureAtlas-Toolbox/total?style=flat-square&color=blue&logo=github&logoColor=white)](https://github.com/MeguminBOT/TextureAtlas-Toolbox/releases)
-[![SourceForge Downloads](https://img.shields.io/sourceforge/dt/textureatlas-to-gif-and-frames?style=flat-square&color=blue&label=SourceForge%20Downloads&logo=sourceforge&logoColor=white)](https://sourceforge.net/projects/textureatlas-to-gif-and-frames/)
-![GameBanana Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.gamebanana.com%2FCore%2FItem%2FData%3Fitemtype%3DTool%26itemid%3D16621%26fields%3Ddownloads%26return_keys%3Dtrue&query=%24.downloads&label=GameBanana%20Downloads&color=blue&style=flat-square&logo=gamebanana&logoColor=white)
-[![itch.io](https://img.shields.io/badge/itch.io-Mirror-FA5C5C?style=flat-square&logo=itchdotio&logoColor=white)](https://autisticlulu.itch.io/textureatlas-toolbox)
+![Total Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frestless-shadow-8cf6.discord-meguminbot.workers.dev%2F&query=%24.downloads&label=Total%20Downloads&color=blue&style=for-the-badge&logo=download&logoColor=white)
+<br><sub><sub>GitHub + SourceForge + GameBanana combined</sub></sub>
+
 
 </div>
 
