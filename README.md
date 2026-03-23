@@ -61,8 +61,8 @@ Also one of the few tools that actually can extract Adobes Spritemap format.
 [![Repo](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/MeguminBOT/TextureAtlas-Toolbox)
 [![Stars](https://img.shields.io/github/stars/MeguminBOT/TextureAtlas-Toolbox?style=flat-square&color=yellow)](https://github.com/MeguminBOT/TextureAtlas-Toolbox/stargazers)
 
-![Total Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frestless-shadow-8cf6.discord-meguminbot.workers.dev%2F&query=%24.downloads&label=Total%20Downloads&color=blue&style=for-the-badge&logo=download&logoColor=white)
-<br><sub><sub>GitHub + SourceForge + GameBanana combined</sub></sub>
+![Total Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frestless-shadow-8cf6.discord-meguminbot.workers.dev%2F&query=%24.downloads&label=Total%20Downloads&color=blue&style=for-the-badge&logo=simpleanalytics&logoColor=white)
+<br><sub><sub>Download Data from all mirrors (Itch.io excluded)</sub></sub>
 
 
 </div>
